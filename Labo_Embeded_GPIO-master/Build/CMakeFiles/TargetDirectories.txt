@@ -1,0 +1,7 @@
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/install/strip.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/edit_cache.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/PJ_RPI.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/install.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/list_install_components.dir
+/home/pi/Opdracht1_LabEmbeded2/PJ_RPI/Build/CMakeFiles/install/local.dir
